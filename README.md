@@ -1,4 +1,5 @@
 # **Plan:**
+Este es el plan de desarrollo el cual sigo para el desarrollo de la [actividad de POO](https://drive.google.com/file/d/1iJxXS0GNKhhgiayXDoGZHemrAvA8W3c4/view?usp=sharing)
 
 ## **Clases Generales:**
 - Clatzy 🏋️‍♂️
